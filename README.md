@@ -7,7 +7,7 @@
 + Good Teacher / Communicator
 
 ### Minimum Time Overlap
-#### Four Hour Overlap
+#### Four Hour Overlap (min)
 + 7:30 am --> 11:30 am (EST)
 + 1:30 pm --> 5:30 pm (Poland)
 
@@ -19,10 +19,10 @@
 + Linux
 
 ### Cultural Considerations
-#### Polish Culture
+#### Polish Culture Stereotypes
 + Direct
 + Reserved
-+ Negative
++ Problem Oriented
 + Focused
 + Polite
 
@@ -33,6 +33,7 @@
 + Problem: What challenges are you currently facing? At a high level, how do you plan to overcome them?
 + What are the top three things you are most proud of achieving?
 + Tell me about a time you disagreed with the way a project was being handled at work. How did it play out?
++ Walk me through the development, QA & Devops process on your most recent project.
 
 ### Personality
 + Are you more energized by being around people or do you need time alone to recharge?
@@ -45,3 +46,10 @@
 + Aside from pay, what do you hope to gain from this assignment?
 + How do you want to improve in your life in the next year?
     + What about the next 5 years?
++ Tell me about side projects have you worked on?
++ Have you ever run your own business?
++ What aspects of a challenge are the most rewarding for you?
+
+### PM Tips
++ Trust but verify work in the beginning
++ 
